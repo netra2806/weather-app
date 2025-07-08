@@ -1,3 +1,3 @@
 # weather-app
-ChatGPT said:
+
 This Python-based desktop weather application offers a visually engaging and interactive experience using Tkinter for the interface and the OpenWeatherMap API for real-time weather updates. Users can simply enter a city name to view the current weather conditions along with temperature readings in either Celsius or Fahrenheit. What sets this app apart is its animated weather visuals— moving clouds, shining sun, falling rain or snow—that make the forecast come alive on screen. The sleek design, intuitive controls, and smooth animations create an enjoyable and modern user experience, making weather checking both informative and fun.
